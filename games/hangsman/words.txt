@@ -1,0 +1,6 @@
+banana
+notebook
+pencil
+book
+open
+chair
