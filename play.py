@@ -31,7 +31,6 @@ def choice_game():
 
     module = import_module("games.{}".format(game_list[choice -1]))
     play = getattr(module, "Game")()
-    play()
     play_again()
 
         
